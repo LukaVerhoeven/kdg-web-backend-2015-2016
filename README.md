@@ -111,5 +111,5 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 ## Studenten
 
 - Naam
-	- email: e-mailadres
-	- GitHub: github-account
+	- email: lka.v.lv@gmail.com
+	- GitHub: LukaVerhoeven
